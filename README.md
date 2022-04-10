@@ -10,4 +10,4 @@
 * Contador de caracteres: Lê em tempo real a quantidade de caractere digitada na área de input. Considera caracteres especiais, espaços e quebras de linha
 
 ### Link:
-[case-convert-js](https://eltonrp.github.io/case-convert-js/)
+<a href="https://eltonrp.github.io/case-convert-js/" target="_blank">case-convert-js</a>
